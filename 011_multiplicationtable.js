@@ -17,3 +17,4 @@ console.log(multiplicationtable(9, 10));
 console.log(multiplicationtable(10, 10));
 console.log(multiplicationtable(11, 10));
 console.log(multiplicationtable(12, 10));
+
